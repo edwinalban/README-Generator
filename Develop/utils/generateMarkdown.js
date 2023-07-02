@@ -1,15 +1,16 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-const license = require('../index.js');
 const licenses = require('../index.js');
 
 function renderLicenseBadge(license) {
   let licenseChoice = license;
-    if (license === 'N/A') {
+
+  for (const license of Object.entries(licenses)) {
+    if (licenseChoice === 'N/A') {
       return "";
-    } else { for (license of licenses) {
-      if (licenseChoice === licenses.name) 
-      return licenses.badge;
+    } else if (licenseChoice === licenses.name) {
+        const license = licenses[badge];
+        return license;
       }
     }
 };
@@ -29,7 +30,7 @@ function generateMarkdown(data) {
 
 ## Description
 
-${data.description} ${renderLicenseBadge(license)}
+${data.description} ${renderLicenseBadge()}
 
 ## Table of Contents
 
