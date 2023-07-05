@@ -21,7 +21,7 @@ You will need to install Node.js and inquirer, in order to use this app. Instruc
 
 In order to generate a new README file, all you will need to do is type "node index.js" into your terminal and answer the prompts.
 
-
+![alt text](assets/images/README_Screenshot.png)
 
 
 
@@ -31,7 +31,7 @@ If you would like to contribute to this project, my email and GitHub username ar
 
 ## Tests
 
-This project can be tested by answering the prompts with different answers. You will then see that a new README file has been generated with based on the new answers.
+This project can be tested by answering the prompts with different answers. You will then see that a new README file has been generated based on the new answers.
 
 ## Questions
 
