@@ -23,7 +23,9 @@ In order to generate a new README file, all you will need to do is type "node in
 
 ![alt text](assets/images/README_Screenshot.png)
 
-![Watch the video](https://drive.google.com/file/d/1UVPNfoR2LIMLvIW_Q4P6SWLzLn1rtH31/view)
+A link to the video to showcase the functionality of the app is here:
+
+https://drive.google.com/file/d/1UVPNfoR2LIMLvIW_Q4P6SWLzLn1rtH31/view
 
 ## Contributing
 
