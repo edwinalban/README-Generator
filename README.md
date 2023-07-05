@@ -2,7 +2,7 @@
 
 ## Description
 
-I built this project in order to make creating README files for future projects less time consuming. It solves the problem of having to type up the markdown for new README files every time a new project is created. I learned how to install packages the necessary packages to use the app and how to import/export information from one file to another.
+I built this project in order to make creating README files for future projects less time consuming. It solves the problem of having to type up the markdown for new README files every time a new project is created. I learned about template literals, how to install the necessary packages to use the app, how to import/export information from one file to another, and how to use Node.js/Inquirer.
 
 ## Table of Contents
 
